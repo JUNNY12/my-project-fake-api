@@ -1,0 +1,43 @@
+ {
+        "date":"20-08-2022",
+        "merchant":"Hotel",
+        "total":300,
+        "status":"reimbursed",
+        "comment":"Expense from travelling"
+    },
+    {
+        "date":"20-04-2022",
+        "merchant":"Parking",
+        "total":400,
+        "status":"Inprogress",
+        "comment":"Expense from travelling"
+    },
+    {
+        "date":"01-08-2022",
+       "merchant":"Taxi",
+        "total":500,
+        "status":"reimbursed",
+        "comment":"Expense from travelling"
+    },
+    {
+        "date":"20-08-2021",
+        "merchant":"Restaurant",
+        "total":230,
+        "status":"reimbursed",
+        "comment":"Expense from travelling"
+    },
+
+     {
+        "date":"02-06-2019",
+      "merchant":"Hotel",
+        "total":150,
+        "status":"reimbursed",
+        "comment":"Expense from travelling"
+    },
+    {
+        "date":"15-04-2020",
+      "merchant":"Airline",
+        "total":300,
+        "status":"Inprogress",
+        "comment":"Expense from travelling"
+    }
