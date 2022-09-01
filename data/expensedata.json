@@ -3,26 +3,26 @@
         "id": "1",
         "date":"2022-09-01",
         "total":"400",
-        "merchant":"hotel",
-        "status":"completed",
+        "merchant":"Fast Food",
+        "status":"New",
         "comment":"New Expenses"
     },
 
     {
         "id": "2",
         "date":"2022-09-01",
-        "total":"400",
-        "merchant":"hotel",
-        "status":"completed",
+        "total":"500",
+        "merchant":"Restuarant",
+        "status":"Inprogress",
         "comment":"New Expenses"
     },
 
     {
         "id": "3",
         "date":"2022-09-01",
-        "total":"400",
+        "total":"700",
         "merchant":"hotel",
-        "status":"completed",
+        "status":"Completed",
         "comment":"New Expenses"
     },
 
@@ -31,16 +31,16 @@
         "date":"2022-09-01",
         "total":"400",
         "merchant":"hotel",
-        "status":"completed",
+        "status":"New",
         "comment":"New Expenses"
     },
 
     {
         "id": "5",
         "date":"2022-09-01",
-        "total":"400",
+        "total":"800",
         "merchant":"hotel",
-        "status":"completed",
+        "status":"Completed",
         "comment":"New Expenses"
     }
 ]
