@@ -1,1 +1,46 @@
-[]
+[
+    {
+        "id": "1",
+        "date":"2022-09-01",
+        "total":"400",
+        "merchant":"hotel",
+        "status":"completed",
+        "comment":"New Expenses"
+    },
+
+    {
+        "id": "2",
+        "date":"2022-09-01",
+        "total":"400",
+        "merchant":"hotel",
+        "status":"completed",
+        "comment":"New Expenses"
+    },
+
+    {
+        "id": "3",
+        "date":"2022-09-01",
+        "total":"400",
+        "merchant":"hotel",
+        "status":"completed",
+        "comment":"New Expenses"
+    },
+
+    {
+        "id": "4",
+        "date":"2022-09-01",
+        "total":"400",
+        "merchant":"hotel",
+        "status":"completed",
+        "comment":"New Expenses"
+    },
+
+    {
+        "id": "5",
+        "date":"2022-09-01",
+        "total":"400",
+        "merchant":"hotel",
+        "status":"completed",
+        "comment":"New Expenses"
+    }
+]
